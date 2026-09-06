@@ -51,6 +51,30 @@ The goal is to provide:
 \- Command state confirmation using delayed readback
 
 
+## Installation
+
+The easiest way to install the driver is through the SmartThings Driver Channel invitation:
+
+**[Install the Hampton Bay / King of Fans 99432 Stability Driver](https://bestow-regional.api.smartthings.com/invite/eGM6PvJ1VPlA)**
+
+1. Open the invitation link while signed into your Samsung / SmartThings account.
+2. Enroll your SmartThings hub in the driver channel.
+3. Install **CGPT Hampton Bay Fan** on your hub.
+4. In the SmartThings app, select **Add device → Scan nearby**.
+5. Put the Hampton Bay / King of Fans controller into pairing mode.
+
+### Pairing / Reset
+
+With SmartThings actively scanning, power-cycle the fan controller:
+
+**OFF for approximately 3 seconds → ON for approximately 3 seconds**
+
+Repeat this cycle **5 times**, leaving the fan powered ON after the fifth cycle.
+
+The fan light should blink to indicate that the controller has entered pairing mode.
+
+SmartThings should discover the device using this driver automatically.
+
 
 \## Credits
 
