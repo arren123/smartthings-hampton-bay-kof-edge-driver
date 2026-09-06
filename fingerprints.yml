@@ -1,0 +1,24 @@
+zigbeeManufacturer:
+  - id: "CGPT1/HDC52EastwindFan"
+    deviceLabel: "CGPT Hampton Bay Fan"
+    manufacturer: "King Of Fans, Inc."
+    model: "HDC52EastwindFan"
+    deviceProfileName: cgpt-fan
+
+  - id: "CGPT1/HBUniversalCFRemote"
+    deviceLabel: "CGPT Hampton Bay Fan"
+    manufacturer: "King Of Fans, Inc."
+    model: "HBUniversalCFRemote"
+    deviceProfileName: cgpt-fan
+
+  - id: "CGPT2/HDC52EastwindFan"
+    deviceLabel: "CGPT Hampton Bay Fan"
+    manufacturer: "King Of Fans,  Inc."
+    model: "HDC52EastwindFan"
+    deviceProfileName: cgpt-fan
+
+  - id: "CGPT2/HBUniversalCFRemote"
+    deviceLabel: "CGPT Hampton Bay Fan"
+    manufacturer: "King Of Fans,  Inc."
+    model: "HBUniversalCFRemote"
+    deviceProfileName: cgpt-fan

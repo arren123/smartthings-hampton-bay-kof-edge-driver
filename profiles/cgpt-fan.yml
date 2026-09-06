@@ -1,0 +1,31 @@
+name: cgpt-fan
+
+components:
+  - id: main
+    label: Fan
+    capabilities:
+      - id: switch
+        version: 1
+      - id: fanSpeed
+        version: 1
+      - id: refresh
+        version: 1
+    categories:
+      - name: Fan
+
+  - id: light
+    label: Light
+    capabilities:
+      - id: switch
+        version: 1
+      - id: switchLevel
+        version: 1
+      - id: refresh
+        version: 1
+    categories:
+      - name: Switch
+
+metadata:
+  deviceType: Fan
+  ocfDeviceType: oic.d.fan
+  deviceTypeId: Fan

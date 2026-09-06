@@ -1,0 +1,5 @@
+# Local SmartThings deployment helper
+deploy.bat
+
+# Development backup
+src/init-skeleton.lua

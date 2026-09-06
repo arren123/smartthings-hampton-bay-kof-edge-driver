@@ -1,0 +1,5 @@
+name: "CGPT Hampton Bay Fan"
+packageKey: "cgpt-hampton-bay-fan"
+permissions:
+  zigbee: {}
+description: "Stability-focused SmartThings Edge driver for Hampton Bay / King of Fans Zigbee ceiling fan controllers"
