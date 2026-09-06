@@ -30,7 +30,7 @@ The goal is to provide:
 
 The easiest way to install the driver is through the SmartThings Driver Channel invitation:
 
-**[Install the Hampton Bay / King of Fans 99432 Stability Driver](https://bestow-regional.api.smartthings.com/invite/eGM6PvJ1VPlA)**
+**[Install the Hampton Bay / King of Fans 99432 Stability Driver](https://bestow-regional.api.smartthings.com/invite/Q1jPnegJLV2L)**
 
 1. Open the invitation link while signed into your Samsung / SmartThings account.
 2. Enroll your SmartThings hub in the driver channel.
